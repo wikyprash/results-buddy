@@ -106,7 +106,7 @@ class Automate:
             x = {}
             l = []
             userGoten = 0
-            for i, e in enumerate(urls[::-1]):
+            for i, e in enumerate(urls):
                 print(len(urls) - i)
                 res = Automate.submiCredentials(driver, self.rollno, e)
                 if userGoten == 0:
@@ -118,7 +118,7 @@ class Automate:
                 if ur['data'] != None:
                     l.append(ur)
             x.update({'results': l})
-            return json.dumps(x, indent=2)
+            return x
         except Exception as e:
             return e
 
@@ -132,11 +132,15 @@ class Automate:
                 urls = Automate.getAllUrls()
                 data = self.getData(driver, urls)
                 # print(data)
-                with open(f"results\\res.json", 'w') as f:
-                    f.write(data)
-                print('closing browser')
-                driver.quit()
-                return data
+                try:
+                    with open(f"src\\results\\{self.rollno}.json", 'w') as f:
+                        f.write(json.dumps(data, indent=2))
+                except Exception as e:
+                    print(e)
+                finally:
+                    print('closing browser')
+                    driver.quit()
+                    return data
             else:
                 print('No INternet')
         except Exception as e:

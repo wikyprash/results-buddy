@@ -1,0 +1,57 @@
+{%extends 'base.html'%}
+
+{% block content %}
+
+<center>
+    <div>
+        <br><br>
+        <table>
+            <tr>
+                <td><b>Student name</b></td>
+                <td>:</td>
+                <td></td>
+                <td>{{data['user']['Student name']}}</td>
+            </tr>
+            <tr>
+                <td><b>Hall Ticket No</b></td>
+                <td>:</td>
+                <td></td>
+                <td>{{data['user']['Hall Ticket No']}}</td>
+            </tr>
+        </table>
+
+
+        <br><br>
+    </div>
+</center>
+{% for i in data['results'] %}
+<div class="">
+    <h4>{{i['title']}}</h4>
+    <table class="table table-bordered">
+        <tr class="table-active">
+            <th>Subject Code</th>
+            <th>Subject Name</th>
+            <th>Internals</th>
+            <th>Externals</th>
+            <th>Total Marks</th>
+            <th>Result Status</th>
+            <th>Credits</th>
+            <th>Grades</th>
+        </tr>
+        {% for j in i['data'] %}
+        <tr>
+            <td>{{j['Subject Code']}}</td>
+            <td>{{j['Subject Name']}}</td>
+            <td>{{j['Internals']}}</td>
+            <td>{{j['Externals']}}</td>
+            <td>{{j['Total Marks']}}</td>
+            <td>{{j['Result Status']}}</td>
+            <td>{{j['Credits']}}</td>
+            <td>{{j['Grades']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <br>
+    {% endfor %}
+</div>
+{%endblock%}
