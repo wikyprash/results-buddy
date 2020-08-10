@@ -1,0 +1,523 @@
+{
+  "user": {
+    "Hall Ticket No": "163G1A0505",
+    "Student name": "AYAPPASETTI BHANU PRAKASH"
+  },
+  "results": [
+    {
+      "title": "B.Tech I Year II Semester (R15) Supplementary Examinations, December/January 2019/2020",
+      "data": [
+        {
+          "Subject Code": "15A51101",
+          "Subject Name": "ENGINEERING CHEMISTRY",
+          "Internals": "19",
+          "Externals": "25",
+          "Total Marks": "44",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "E"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech II Year II Semester (R15) Supplementary Examinations, December/January 2019/2020.",
+      "data": [
+        {
+          "Subject Code": "15A05404",
+          "Subject Name": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+          "Internals": "17",
+          "Externals": "35",
+          "Total Marks": "52",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech III Year II Semester (R15) Supplementary Examinations, December/January 2019/2020",
+      "data": [
+        {
+          "Subject Code": "15A05603",
+          "Subject Name": "DESIGN PATTERNS",
+          "Internals": "25",
+          "Externals": "29",
+          "Total Marks": "54",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05604",
+          "Subject Name": "DESIGN & ANALYSIS OF ALGORITHMS",
+          "Internals": "28",
+          "Externals": "35",
+          "Total Marks": "63",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "C"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech II Year I Semester (R15) Regular & Supplementary Examinations, Nov/Dec 2019",
+      "data": [
+        {
+          "Subject Code": "15A04306",
+          "Subject Name": "DIGITAL LOGIC DESIGN",
+          "Internals": "15",
+          "Externals": "25",
+          "Total Marks": "40",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "E"
+        },
+        {
+          "Subject Code": "15A05302",
+          "Subject Name": "DISCRETE MATHEMATICS",
+          "Internals": "15",
+          "Externals": "11",
+          "Total Marks": "26",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A99301",
+          "Subject Name": "BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+          "Internals": "17",
+          "Externals": "4",
+          "Total Marks": "21",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech IV Year I Semester (R15) Regular & Supplementary Examinations, Nov/Dec 2019",
+      "data": [
+        {
+          "Subject Code": "15A05701",
+          "Subject Name": "GRID & CLOUD COMPUTING",
+          "Internals": "25",
+          "Externals": "34",
+          "Total Marks": "59",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05702",
+          "Subject Name": "INFORMATION SECURITY",
+          "Internals": "25",
+          "Externals": "28",
+          "Total Marks": "53",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05703",
+          "Subject Name": "MOBILE APPLICATION DEVELOPMENT",
+          "Internals": "25",
+          "Externals": "17",
+          "Total Marks": "42",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05704",
+          "Subject Name": "SOFTWARE ARCHITECTURE",
+          "Internals": "25",
+          "Externals": "5",
+          "Total Marks": "30",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05707",
+          "Subject Name": "SOFTWARE PROJECT MANAGEMENT",
+          "Internals": "25",
+          "Externals": "25",
+          "Total Marks": "50",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05710",
+          "Subject Name": "GRID & CLOUD COMPUTING LAB",
+          "Internals": "27",
+          "Externals": "67",
+          "Total Marks": "94",
+          "Result Status": "P",
+          "Credits": "2",
+          "Grades": "S"
+        },
+        {
+          "Subject Code": "15A05711",
+          "Subject Name": "MOBILE APPLICATION DEVELOPMENT LAB",
+          "Internals": "27",
+          "Externals": "65",
+          "Total Marks": "92",
+          "Result Status": "P",
+          "Credits": "2",
+          "Grades": "S"
+        },
+        {
+          "Subject Code": "15A52601",
+          "Subject Name": "MANAGEMENT SCIENCE",
+          "Internals": "25",
+          "Externals": "17",
+          "Total Marks": "42",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech I Year I Semester (R15) Supplementary Examinations, June.July 2019",
+      "data": [
+        {
+          "Subject Code": "15A56101",
+          "Subject Name": "ENGINEERING PHYSICS",
+          "Internals": "19",
+          "Externals": "36",
+          "Total Marks": "55",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech I Year II Semester (R15) Regular & Supplementary Examinations, May/June 2019",
+      "data": [
+        {
+          "Subject Code": "15A51101",
+          "Subject Name": "ENGINEERING CHEMISTRY",
+          "Internals": "19",
+          "Externals": "AB",
+          "Total Marks": "19",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech III Year I Semester (R15) Supplementary Examinations, June/July 2019",
+      "data": [
+        {
+          "Subject Code": "15A05503",
+          "Subject Name": "OBJECT ORIENTED ANALYSIS & DESIGN",
+          "Internals": "25",
+          "Externals": "31",
+          "Total Marks": "56",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05504",
+          "Subject Name": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+          "Internals": "17",
+          "Externals": "30",
+          "Total Marks": "47",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "E"
+        },
+        {
+          "Subject Code": "15A05505",
+          "Subject Name": "SOFTWARE TESTING",
+          "Internals": "20",
+          "Externals": "33",
+          "Total Marks": "53",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05506",
+          "Subject Name": "INTRODUCTION TO BIG DATA",
+          "Internals": "21",
+          "Externals": "46",
+          "Total Marks": "67",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "C"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech II Year II Semester (R15) Regular & Supplementary Examinations, May/June 2019",
+      "data": [
+        {
+          "Subject Code": "15A05403",
+          "Subject Name": "OBJECT ORIENTED PROGRAMMING USING JAVA",
+          "Internals": "25",
+          "Externals": "34",
+          "Total Marks": "59",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05404",
+          "Subject Name": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+          "Internals": "17",
+          "Externals": "10",
+          "Total Marks": "27",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech III Year II Semester (R15) Regular & Supplementary Examinations, May/June 2019",
+      "data": [
+        {
+          "Subject Code": "15A05601",
+          "Subject Name": "COMPILER DESIGN",
+          "Internals": "21",
+          "Externals": "29",
+          "Total Marks": "50",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05602",
+          "Subject Name": "DATA WAREHOUSING & MINING",
+          "Internals": "26",
+          "Externals": "26",
+          "Total Marks": "52",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "D"
+        },
+        {
+          "Subject Code": "15A05603",
+          "Subject Name": "DESIGN PATTERNS",
+          "Internals": "25",
+          "Externals": "16",
+          "Total Marks": "41",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05604",
+          "Subject Name": "DESIGN & ANALYSIS OF ALGORITHMS",
+          "Internals": "28",
+          "Externals": "6",
+          "Total Marks": "34",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05605",
+          "Subject Name": "WEB & INTERNET TECHNOLOGIES",
+          "Internals": "25",
+          "Externals": "41",
+          "Total Marks": "66",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "C"
+        },
+        {
+          "Subject Code": "15A05608",
+          "Subject Name": "SYSTEM APPLICATIONS & PRODUCTS",
+          "Internals": "23",
+          "Externals": "25",
+          "Total Marks": "48",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "E"
+        },
+        {
+          "Subject Code": "15A05609",
+          "Subject Name": "WEB & INTERNET TECHNOLOGIES LAB",
+          "Internals": "29",
+          "Externals": "67",
+          "Total Marks": "96",
+          "Result Status": "P",
+          "Credits": "2",
+          "Grades": "S"
+        },
+        {
+          "Subject Code": "15A05610",
+          "Subject Name": "DATA WAREHOUSING & MINING LAB",
+          "Internals": "29",
+          "Externals": "66",
+          "Total Marks": "95",
+          "Result Status": "P",
+          "Credits": "2",
+          "Grades": "S"
+        },
+        {
+          "Subject Code": "15A05611",
+          "Subject Name": "COMPREHENSIVE ONLINE EXAMINATION-II",
+          "Internals": "0",
+          "Externals": "61",
+          "Total Marks": "61",
+          "Result Status": "P",
+          "Credits": "1",
+          "Grades": "C"
+        },
+        {
+          "Subject Code": "15A52602",
+          "Subject Name": "ADVANCED ENGLISH LANGUAGE COMMUNICATION SKILLS LAB (Audit Course)",
+          "Internals": "28",
+          "Externals": "0",
+          "Total Marks": "28",
+          "Result Status": "P",
+          "Credits": "0",
+          "Grades": "Y"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech I Year II Semester (R15) Supplementary Examinations, December 2018",
+      "data": [
+        {
+          "Subject Code": "15A51101",
+          "Subject Name": "ENGINEERING CHEMISTRY",
+          "Internals": "19",
+          "Externals": "4",
+          "Total Marks": "23",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech II Year II Semester (R15) Supplementary Examinations, December 2018",
+      "data": [
+        {
+          "Subject Code": "15A05403",
+          "Subject Name": "OBJECT ORIENTED PROGRAMMING USING JAVA",
+          "Internals": "25",
+          "Externals": "AB",
+          "Total Marks": "25",
+          "Result Status": "AB",
+          "Credits": "0",
+          "Grades": "AB"
+        },
+        {
+          "Subject Code": "15A05404",
+          "Subject Name": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+          "Internals": "17",
+          "Externals": "5",
+          "Total Marks": "22",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        }
+      ]
+    },
+    {
+      "title": "B.Tech III Year I Semester (R15) Regular and Supplementary Examinations, November/December 2018",
+      "data": [
+        {
+          "Subject Code": "15A05501",
+          "Subject Name": "OPERATING SYSTEMS",
+          "Internals": "17",
+          "Externals": "25",
+          "Total Marks": "42",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "E"
+        },
+        {
+          "Subject Code": "15A05502",
+          "Subject Name": "COMPUTER NETWORKS",
+          "Internals": "22",
+          "Externals": "25",
+          "Total Marks": "47",
+          "Result Status": "P",
+          "Credits": "3",
+          "Grades": "E"
+        },
+        {
+          "Subject Code": "15A05503",
+          "Subject Name": "OBJECT ORIENTED ANALYSIS & DESIGN",
+          "Internals": "25",
+          "Externals": "13",
+          "Total Marks": "38",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05504",
+          "Subject Name": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+          "Internals": "17",
+          "Externals": "AB",
+          "Total Marks": "17",
+          "Result Status": "AB",
+          "Credits": "0",
+          "Grades": "AB"
+        },
+        {
+          "Subject Code": "15A05505",
+          "Subject Name": "SOFTWARE TESTING",
+          "Internals": "20",
+          "Externals": "7",
+          "Total Marks": "27",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05506",
+          "Subject Name": "INTRODUCTION TO BIG DATA",
+          "Internals": "21",
+          "Externals": "17",
+          "Total Marks": "38",
+          "Result Status": "F",
+          "Credits": "0",
+          "Grades": "F"
+        },
+        {
+          "Subject Code": "15A05509",
+          "Subject Name": "OBJECT ORIENTED ANALYSIS & DESIGN AND SOFTWARE TESTING LAB",
+          "Internals": "22",
+          "Externals": "62",
+          "Total Marks": "84",
+          "Result Status": "P",
+          "Credits": "2",
+          "Grades": "A"
+        },
+        {
+          "Subject Code": "15A05510",
+          "Subject Name": "OPERATING SYSTEMS LAB",
+          "Internals": "24",
+          "Externals": "62",
+          "Total Marks": "86",
+          "Result Status": "P",
+          "Credits": "2",
+          "Grades": "A"
+        },
+        {
+          "Subject Code": "15A99501",
+          "Subject Name": "SOCIAL VALUES & ETHICS (Audit Course)",
+          "Internals": "18",
+          "Externals": "0",
+          "Total Marks": "18",
+          "Result Status": "P",
+          "Credits": "0",
+          "Grades": "Y"
+        }
+      ]
+    }
+  ]
+}
