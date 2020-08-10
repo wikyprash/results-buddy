@@ -1,6 +1,7 @@
+import os
 import json
 from bs4 import BeautifulSoup
-from selenium.webdriver.chrome.options import Options
+# from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 import requests
 import urllib
@@ -125,10 +126,16 @@ class Automate:
     def start(self):
         try:
             if Automate.connect():
-                options = Options()
-                options.headless = True
-                driver = webdriver.Chrome(
-                    executable_path='src\\chromedriver\\chromedriver.exe', options=options)
+                chrome_options = webdriver.ChromeOptions()
+                chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+                chrome_options.add_argument("--headless")
+                chrome_options.add_argument("--disable-dev-shm-usage")
+                chrome_options.add_argument("--no-sandbox")
+                driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
+                # options = Options()
+                # options.headless = True
+                # driver = webdriver.Chrome(
+                #     executable_path='src\\chromedriver\\chromedriver.exe', options=options)
                 urls = Automate.getAllUrls()
                 data = self.getData(driver, urls)
                 # print(data)
