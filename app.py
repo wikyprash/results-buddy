@@ -24,7 +24,7 @@ def home():
         rollno = rollno.upper()
         print(rollno)
         # data = checkData(rollno)
-        with open(f'src\\results\\{rollno}.json') as target:
+        with open(f"src\\results\\{rollno}.json") as target:
             data = target
         return render_template('res.html', data = data)
     return render_template('base.html')
