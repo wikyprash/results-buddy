@@ -26,6 +26,7 @@ def home():
         # data = checkData(rollno)
         with open(f"src\\results\\{rollno}.json") as target:
             data = target
+            data = json.load(data)
         return render_template('res.html', data = data)
     return render_template('base.html')
 
