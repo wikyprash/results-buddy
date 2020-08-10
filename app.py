@@ -6,13 +6,13 @@ from automation import Automate
 app = Flask(__name__)
 
 def checkData(rollno):
-    if os.path.isfile(f'src\\results\\{rollno}.json'):
-        with open(f'src\\results\\{rollno}.json', 'r') as f:
-            obj = json.load(f)
-            if rollno == obj['user']['Hall Ticket No']:
-                data = obj
-                return data
-    else:
+    # if os.path.isfile(f'src\\results\\{rollno}.json'):
+    #     with open(f'src\\results\\{rollno}.json', 'r') as f:
+    #         obj = json.load(f)
+    #         if rollno == obj['user']['Hall Ticket No']:
+    #             data = obj
+    #             return data
+    # else:
         x = Automate(rollno)
         data = x.start()
         return data
