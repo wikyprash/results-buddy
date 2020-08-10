@@ -19,13 +19,15 @@ def checkData(rollno):
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
-    if request.method == 'POST':
-        rollno = request.form.get('rollno')
-        rollno = rollno.upper()
-        print(rollno)
-        data = Automate(rollno).start()
-        return render_template('res.html', data = data)
-    return render_template('base.html')
+    x = Automate('163g1a0505').start()
+    return x
+    # if request.method == 'POST':
+    #     rollno = request.form.get('rollno')
+    #     rollno = rollno.upper()
+    #     print(rollno)
+    #     data = Automate(rollno).start()
+    #     return render_template('res.html', data = data)
+    # return render_template('base.html')
 
 
 if __name__ == "__main__":
