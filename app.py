@@ -23,10 +23,7 @@ def home():
         rollno = request.form.get('rollno')
         rollno = rollno.upper()
         print(rollno)
-        # data = checkData(rollno)
-        with open(f"src\\results\\{rollno}.json") as target:
-            data = target
-            data = json.load(data)
+        data = Automate(rollno).start()
         return render_template('res.html', data = data)
     return render_template('base.html')
 
